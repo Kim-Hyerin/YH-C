@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main(void)
 {
-	printf("ÀÌ  ¸§ : ±èÇı¸°\n");
-	printf("ÁÖ  ¼Ò : ºÎ»ê µ¿·¡±¸\n");
-	printf("¿¬¶ôÃ³ : 010-5623-9759\n");
+	printf("ì´  ë¦„ : KHR\n");
+	printf("ì£¼  ì†Œ : ëŒ€í•œë¯¼êµ­\n");
+	printf("ì—°ë½ì²˜ : 010-0000-0000\n");
 	return 0;
 }
